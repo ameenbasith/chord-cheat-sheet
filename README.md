@@ -23,4 +23,6 @@ https://user-images.githubusercontent.com/90441599/149755418-a239e578-b904-49be-
 3:05 (Switching Theme Animation from Dark to Light mode)
 
 # Final Thoughts
-Ultimately, I am incredibly happy with how this application turned out, and, as mentioned in the above video, there are currently 3 people utilizing the application to assist in improving their own beats. Honestly, I have a lot of ideas to improve this application in the future, including the possibility of actually recording the chord progressions, and even being able to download the final .MIDI file.
+Ultimately, I am incredibly happy with how this application turned out. 
+
+As mentioned in the above video, there are currently 3 people utilizing the application to assist in improving their own beats, which is much more than I initially was expecting. Honestly, I have a lot of ideas to improve this application in the future, including the possibility of actually recording the chord progressions, and even being able to download the final mp4 or MIDI file.
