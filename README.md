@@ -1,1 +1,5 @@
-## chord-cheat-sheet app
+## The Problem
+
+##What I learned
+
+#Final Thoughts
