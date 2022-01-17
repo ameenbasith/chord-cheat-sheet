@@ -8,5 +8,14 @@ Therefore, I had to determine the best course of action, which was to create an 
 
 Here is a short demonstration explaining the process and how the chord sheet works! (time stamps below)
 
+https://user-images.githubusercontent.com/90441599/149755418-a239e578-b904-49be-b02e-a31af0285805.mp4
+
+0:25 (Chord buttons make sound!)
+0:48 (Cycling through Keys/Vibes)
+1:25 (Choosing my own chords!)
+2:08 (Live Demo)
+2:25 (Final Thoughts)
+3:05 (Switching Theme Animation from Dark to Light mode)
+
 # Final Thoughts
 Ultimately, I am incredibly happy with how this application turned out, and, as mentioned in the above video, there are currently 3 people utilizing the application to assist in improving their own beats. Honestly, I have a lot of ideas to improve this application in the future, including the possibility of actually recording the chord progressions, and even being able to download the final .MIDI file.
