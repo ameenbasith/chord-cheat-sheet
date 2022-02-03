@@ -10,22 +10,6 @@ Therefore, I had to determine the best course of action, which was to create an 
 
 I then started brain storming the overall design, and came up with the idea of including a form that outputs the "feel" for each key selected and also the chords that work in the given key. 
 
-Here is a short demonstration explaining the process and how the chord sheet works! (time stamps below)
-
-https://user-images.githubusercontent.com/90441599/149755418-a239e578-b904-49be-b02e-a31af0285805.mp4
-
-0:25 (Chord buttons make sound!)
-
-0:48 (Cycling through Keys/Vibes)
-
-1:25 (Choosing my own chords!)
-
-2:08 (Live Demo)
-
-2:25 (Final Thoughts)
-
-3:05 (Switching Theme Animation from Dark to Light mode)
-
 ## Final Thoughts
 Ultimately, I am incredibly happy with how this application turned out. 
 
